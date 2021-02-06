@@ -51,3 +51,7 @@
 - nodemon
 
 ## What app will look like
+
+![Screenshot_1](https://github.com/Flux99/quiz-app-socket-io/blob/master/screenshot/screenshot_0.jpeg?raw=true)
+
+![Screenshot_2](https://github.com/Flux99/quiz-app-socket-io/blob/master/screenshot/screenshot_1.jpeg?raw=true)
